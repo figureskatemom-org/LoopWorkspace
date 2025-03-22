@@ -284,7 +284,6 @@ jobs:
           override_sens \
           now_line \
           2hlollipop \
-          no_auth \
           meal_days \
           profiles \
           live_activity \
