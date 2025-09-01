@@ -293,7 +293,6 @@ jobs:
           now_line \
           2hlollipop \
           meal_days \
-          profiles \
           live_activity \
           negative_insulin \
           remote_window
