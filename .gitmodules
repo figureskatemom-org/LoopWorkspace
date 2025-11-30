@@ -61,3 +61,9 @@
 [submodule "EversenseKit"]
 	path = EversenseKit
 	url = https://github.com/loopandlearn/EversenseKit
+[submodule "MedtrumKit"]
+	path = MedtrumKit
+	url = https://github.com/loopandlearn/MedtrumKit.git
+[submodule "DanaKit"]
+	path = DanaKit
+	url = https://github.com/loopandlearn/DanaKit
